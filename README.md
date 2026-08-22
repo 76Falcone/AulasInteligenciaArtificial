@@ -15,3 +15,6 @@ Repositório destinado às atividades, exercícios e projetos desenvolvidos dura
 ### Exercícios de Python
 
 **[Exercícios_Python_Falcone_6B_Noturno.ipynb](./Exercícios_Python_Falcone_6B_Noturno.ipynb)**
+
+### Exercícios Bibliotecas Python
+
