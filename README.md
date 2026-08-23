@@ -6,7 +6,7 @@ Repositório destinado às atividades, exercícios e projetos desenvolvidos dura
 
 * **Professor:** `Fabiano Bezerra Menegidio`
 * **Matéria:** `Inteligência Artificial`
-* **Semestre:** `5º semestre`
+* **Semestre:** `6º semestre`
 
 ---
 
