@@ -21,3 +21,6 @@ Repositório destinado às atividades, exercícios e projetos desenvolvidos dura
 **[ExercíciosBibliotecas_Python_Falcone_6B_Noturno.ipynb](./ExercíciosBibliotecas_Python_Falcone_6B_Noturno.ipynb)**
 #### Arquivo utilizado para exercícios da biblioteca pandas
 **[vendas.xlsx](./vendas.xlsx)**
+
+### Exercício SVM
+**[atividade-iris-dataset.ipynb](./atividade-iris-dataset.ipynb)**
